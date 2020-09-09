@@ -1,4 +1,4 @@
 minimo
 ======
 
-a super minimal website theme that is extremely fast and user friendly.
+A super minimal WordPress theme that is extremely fast and user friendly.
