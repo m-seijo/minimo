@@ -1,7 +1,16 @@
 /*
-Theme Name: Minimo WordPress Theme
+Theme Name: Minimo
+Theme URI: https://demo.marioseijo.com/Minimo/
+Description: Minimo is a super minimal WordPress theme that is extremely fast and user friendly.
+Version: 0.3
+Author: Mario Seijo
+Author URI: https://marioseijo.com
+License: GNU General Public License Version 3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: Minimo
 */
 
+
 body {
-background: #21759b;
+background: #212A29;
 }
